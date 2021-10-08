@@ -1,0 +1,23 @@
+/*  stylecss etape3*/
+
+body{
+margin: 10px 0;
+font: 0.8em ;
+font: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+background-color: #ddeeaa;
+}
+
+
+
+#conteneur{
+width: 770px ;
+margin: 0  auto;
+background-color: #fff;
+margin: 0 auto;
+border: 2px solid #ab4;
+    }
+    
+#header{
+    
+line-height: 250px;
+    }

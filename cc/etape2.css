@@ -1,0 +1,13 @@
+/* le style pour site pomme etape 2*/
+
+
+
+#conteneur{
+width: 500px ;
+margin: 0 ;
+}
+
+#header{
+
+    line-height: 250px;
+}
